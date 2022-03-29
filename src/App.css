@@ -1,0 +1,18 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: rgb(163, 240, 163);
+  margin-right: 0px;
+ 
+}
+
+
+nav{
+  background-color: blue;
+  height: 100px;
+  margin: 0;
+}
