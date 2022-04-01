@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import SearchMovie from './SearchMovies';
+import SearchMovies from './SearchMovies';
 import '../src/style.css';
 
 class Main extends React.Component {
@@ -8,7 +8,7 @@ class Main extends React.Component {
     return (
       <div className="container">
       <h1 className="title">React Movie Search!</h1>
-      <SearchMovie />
+      <SearchMovies />
       </div>
     );
   }
